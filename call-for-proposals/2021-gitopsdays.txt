@@ -1,0 +1,31 @@
+Status: Not Accepted
+
+Event: GitOps Days 2021
+
+Presentation title
+GitOps in Action and in Service of Openshift Operations
+
+Description
+When our small team inherited the responsibility of managing Openshift platforms for Standard Chartered, we knew it to be a game changer and that we would find ourselves managing a fast-growing estate. Armed with an SRE mindset and with the principles of the book, the Phoenix Project, we set out to make our operations work into an automated, scalable and transparent endeavour. 
+Within two years, we went from building servers and clusters by hand to having fully automated pipelines for each part of a clusters’ lifecycles while working within the avenues we can move in. In doing so, our cloud journey at Standard Chartered has accelerated. More and more projects are now migrating to these platforms which are quickly provisioned and easily maintainable.
+If you want to learn how our team which was composed primarily of former application support people (with one resource from finance!) transformed itself into an effective infrastructure engineering team, and how it used GitOps to manage an estate of 20 clusters with 504 servers to hundreds of clusters with thousands servers, this talk is for you.
+
+Audience Takeaways
+These are the main ideas of GitOps the audience should leave with from this talk are: 
+1.	GitOps controls the flow of work
+2.	GitOps supercharges transparency and feedback loops
+3.	GitOps breeds continued experimentation
+
+Outline
+1.	Who: The team, its SRE mindset and the Phoenix Project
+2.	Why: GitOps and Openshift make for a perfect pair:
+3.	How: Our GitOps toolset
+4.	What: How we benefited from GitOps in facts and figures
+5.	Where: The future of GitOps in our team and in our organization
+
+About the Speakers
+Brett Lavente is a cloud engineer for Standard Chartered Global Business Services. His career with the organization, which started back in 2010, has seen him as an application developer, and an application support lead before landing his current role which sees him specializing on container platforms. These days you’ll find him with either a Nintendo Switch or a basketball during his free time.
+
+Rocelito Abano is a cloud engineer for Standard Chartered Global Business Services. He has had roles as an application support engineer and a systems administrator in telco and marketing services companies before he joined the bank back in 2016. Outside of work, he enjoys watching Netflix with his wife and son or playing classic online games.
+
+Brett and Rocel are part of the Container SRE team, a part of the Enterprise Technology division which is responsible for group-wide shared technology capabilities, such as cloud, data, and central and end user infrastructure for Standard Chartered Bank's Global Business Services. Their team is at the frontlines of the Bank's Cloud Transformation project managing container platform services. For their work, awarded the following: Going the Extra Mile Team Award 2020, New Ways of Working Model Team 2020, TS GameChanger 2020 Gold Award Winner for Living an Engineering Culture, and Red Hat APAC 2020 Innovation Awardee for Digital Transformation. The team is, however, most proud of the happy coincidence that its members genuinely like each other and will not hesitate to assist and learn from each other. 
